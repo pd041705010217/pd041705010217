@@ -31,7 +31,6 @@ NextGen Solutions<BR>
 Software Developer 06/2016 - 08/2018<BR>
 • Reduced application load time by 25% by re-factoring inefficient code and optimizing front-end assets<BR>
 • Initiated a corporate-wide code review practice, which improved code quality by 30%<BR>
-• Contributed to the creation of a customer support chatbot using AI technologies, enhancing customer service response times by 40%<BR>
 
 
 <h1>Education</h1>
