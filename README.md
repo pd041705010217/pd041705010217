@@ -42,12 +42,8 @@ Master of Computer Science 04/2003 - 06/2007<BR></h3>
 
 
 <h1>Could you please take a look at my products?<BR></h1>
-https://www.duckdonuts.com<BR>![image](https://github.com/user-attachments/assets/be243e5d-84c7-4f18-bece-950e797e68ff)
-
 https://www.petplanet.co.uk<BR>![image](https://github.com/user-attachments/assets/6b833e62-99ed-40bf-aa8f-bd0c05ec8c96)
 
 https://www.sonicshop.de<BR>![image](https://github.com/user-attachments/assets/1b16edbf-cebe-4e67-b1c6-81d3730dca26)
 
 https://fsastore.com<BR>![image](https://github.com/user-attachments/assets/05b14a4a-8c08-45f8-ad2c-db9c595928cc)
-
-https://www.aussiedisposals.com.au<BR>![image](https://github.com/user-attachments/assets/c241bf21-1730-4a9d-b09c-895cc9dae125)
