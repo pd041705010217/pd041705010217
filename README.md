@@ -6,11 +6,13 @@ I'm a full-stack developer with over a decade of experience, and my favorite pro
 
 Even long distances are close when we go together.<BR>
 
-🥇 Languages: C#, C++, JavaScript, Three.JS, HTML, CSS, SQL
+🥇 Languages: C#, C++, JavaScript, HTML, CSS
+
+🥇 Database: SQL, MySQL, PostgreSQL, MongoDB
 
 🥇 Frameworks: ASP.NET, Angular, React
 
-🥇 Tools: Vistual Studio, Visual Studio Code, Node.JS, Git, Jira, Microsoft Teams, Slack, Postgres, SQL Server Management Studio
+🥇 Tools: Vistual Studio, Visual Studio Code, Node.JS, Git, Unity, SQL Server Management Studio
 
 <h1>Experience</h1>
 <h3>Tech Innovations Inc.<BR>
