@@ -9,12 +9,9 @@ It's not about how many programming languages you know; what's important is havi
 <BR>
 Even long distances are close when we go together.<BR>
 
-🥇 Languages: C#, C++, JavaScript, HTML, CSS
-
-🥇 Database: SQL, MySQL, PostgreSQL, MongoDB
-
-🥇 Frameworks: ASP.NET, Angular, React
-
+🥇 Languages: C#, C++, JavaScript, HTML, CSS<BR>
+🥇 Database: SQL, MySQL, PostgreSQL, MongoDB<BR>
+🥇 Frameworks: ASP.NET, Angular, React<BR>
 🥇 Tools: Vistual Studio, Visual Studio Code, Node.JS, Git, Unity, SQL Server Management Studio
 
 <h1>Experience</h1>
