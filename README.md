@@ -11,30 +11,30 @@ Even long distances are close when we go together.<BR>
 🥇 Web Development: ASP.NET Core, Angular<BR>
 🥇 CNC/Robotics: G-code/M-code, Fanuc, KUKA basics<BR>
 🥇 Graphics: DirectX, Unity<BR>
-🥇 Others: Reverse Engineering techniques, Hook
+🥇 Others: Reverse Engineering techniques, Hook<BR>
 
 
 <h1>Professional Experience</h1>
 <h3>-	Senior PLC & Automation Systems Engineer<BR>
 EuroTech Engineering Group – Lviv, Ukraine March  2020 – Present<BR></h3>
-• •	Designed and programmed PLC systems (Siemens S7-1500, Beckhoff TwinCAT 3) for conveyor and packaging lines.
-•	Developed HMI interfaces using WinCC and TwinCAT HMI for operator-friendly control panels.
-•	Integrated SCADA systems using Modbus TCP and MQTT for real-time production monitoring.
-•	Provided on-site and remote commissioning in Poland, Germany, and the Czech Republic.
-•	Documented logic flow, IO lists, and provided operator training post-installation.
+•	Designed and programmed PLC systems (Siemens S7-1500, Beckhoff TwinCAT 3) for conveyor and packaging lines.<BR>
+•	Developed HMI interfaces using WinCC and TwinCAT HMI for operator-friendly control panels.<BR>
+•	Integrated SCADA systems using Modbus TCP and MQTT for real-time production monitoring.<BR>
+•	Provided on-site and remote commissioning in Poland, Germany, and the Czech Republic.<BR>
+•	Documented logic flow, IO lists, and provided operator training post-installation.<BR>
 
 <h3>Automation Engineer<BR>
 UkrMechAutomation LLC – Kharkiv, Ukraine  July 2017 – February 2020<BR></h3>
-• •	Programmed and tested Omron and Mitsubishi PLCs for food processing equipment.
-•	Led migration of RS-232/RS-485 communication systems to Modbus TCP-based architecture.
-•	Implemented Python-based scripts for automated testing and diagnostics.
-•	Participated in reverse engineering of proprietary machine logic to modern platforms.
+•	Programmed and tested Omron and Mitsubishi PLCs for food processing equipment.<BR>
+•	Led migration of RS-232/RS-485 communication systems to Modbus TCP-based architecture.<BR>
+•	Implemented Python-based scripts for automated testing and diagnostics.<BR>
+•	Participated in reverse engineering of proprietary machine logic to modern platforms.<BR>
 •	Collaborated with mechanical and electrical teams to deliver full turnkey automation systems<BR>
 
 
 <h1>Education</h1>
-<h3>Master of Electrical Engineering and Automation<BR>
-Lviv Polytechnic National University	04/2013 - 06/2017<BR></h3>
+<h3>Master of Electrical Engineering and Automation<BR></h3>
+Lviv Polytechnic National University	04/2013 - 06/2017<BR>
 
 <h1>Could you please take a look at Notable Projects?<BR></h1>
 <h3>Automation Engineer<BR>
