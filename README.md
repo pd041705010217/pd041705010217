@@ -41,7 +41,7 @@ Lviv Polytechnic National University	04/2013 - 06/2017<BR>
 Developed and deployed a complete PLC and HMI system for a warehouse conveyor system; achieved a 25% increase in sorting speed.<BR>
 <img src='https://github.com/user-attachments/assets/7d483e76-4a3c-422d-b6b3-d35ee05fb3b5'>
 <img src='https://github.com/user-attachments/assets/7188582c-150c-4081-8d2b-41624a8880f0'>
-<img src='https://github.com/user-attachments/assets/3ab972cc-a2c7-40eb-92f7-35d17b592db9'>
+<img src='https://github.com/user-attachments/assets/5431283e-03b4-4b1d-8c77-306f7fdfa96a'>
 
 
 <h3>•	IoT and industrial automation<BR></h3>
