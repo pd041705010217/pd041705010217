@@ -42,7 +42,7 @@ Developed and deployed a complete PLC and HMI system for a warehouse conveyor sy
 <img src='https://github.com/user-attachments/assets/7d483e76-4a3c-422d-b6b3-d35ee05fb3b5'>
 <img src='https://github.com/user-attachments/assets/7188582c-150c-4081-8d2b-41624a8880f0'>
 <img src='https://github.com/user-attachments/assets/5431283e-03b4-4b1d-8c77-306f7fdfa96a'>
-<img src='https://github.com/user-attachments/assets/344d0cb8-daa3-47f6-a5ce-1e6741f671ec'>
+<img src='https://github.com/user-attachments/assets/21efb7d0-843c-4269-be3a-dd86667c6c22'>
 
 
 <h3>•	IoT and industrial automation<BR></h3>
