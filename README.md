@@ -37,6 +37,11 @@ UkrMechAutomation LLC – Kharkiv, Ukraine  July 2017 – February 2020<BR></h3>
 Lviv Polytechnic National University	04/2013 - 06/2017<BR>
 
 <h1>Could you please take a look at Notable Projects?<BR></h1>
-<h3>Automation Engineer<BR>
+<h3>Automation Engineer<BR></h3>
+I have a strong proficiency in Clean Architecture and Microservices on .NET, and I have primarily developed .NET applications for the IoT and manufacturing sectors. These experiences have equipped me with valuable skills in real-time data acquisition, large data processing, and stable communication.
+I would like to highlight my expertise in time series data processing, large data handling, and communication between IoT devices and servers.
+![image](https://github.com/user-attachments/assets/0db716db-c606-44bf-a276-3e3589f5dcda)
+![image](https://github.com/user-attachments/assets/f4fae84f-4dda-41e9-a643-bddebf1c8a37)
+
 <h3>Legacy Control Upgrade<BR>
 <h3>IoT Integration Project<BR>
