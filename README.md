@@ -37,11 +37,21 @@ UkrMechAutomation LLC – Kharkiv, Ukraine  July 2017 – February 2020<BR></h3>
 Lviv Polytechnic National University	04/2013 - 06/2017<BR>
 
 <h1>Could you please take a look at Notable Projects?<BR></h1>
-<h3>•	Automation Engineer<BR></h3>
-I have a strong proficiency in Clean Architecture and Microservices on .NET, and I have primarily developed .NET applications for the IoT and manufacturing sectors. These experiences have equipped me with valuable skills in real-time data acquisition, large data processing, and stable communication.
-I would like to highlight my expertise in time series data processing, large data handling, and communication between IoT devices and servers.
-<img src='https://github.com/user-attachments/assets/0db716db-c606-44bf-a276-3e3589f5dcda'>
-![image](https://github.com/user-attachments/assets/f4fae84f-4dda-41e9-a643-bddebf1c8a37)
+<h3>•	Automated Sorting System<BR></h3>
+Developed and deployed a complete PLC and HMI system for a warehouse conveyor system; achieved a 25% increase in sorting speed.<BR>
+<img src='https://github.com/user-attachments/assets/7d483e76-4a3c-422d-b6b3-d35ee05fb3b5'>
+<img src='https://github.com/user-attachments/assets/7188582c-150c-4081-8d2b-41624a8880f0'>
 
-<h3>•	Legacy Control Upgrade<BR>
-<h3>•	IoT Integration Project<BR>
+<h3>•	IoT and industrial automation<BR></h3>
+As a software developer with experience in IoT and industrial automation, I have worked on multiple projects involving real-time data monitoring from SCADA systems, CNCs, PLCs, and robots—using protocols such as OPC UA, Modbus RTU/ASCII, and serial communication (RS-232/485).<BR>
+I’m also proficient in embedded databases like SQLite, though I’d like to better understand why it’s being chosen for real-time data storage. If the dataset is expected to grow significantly, I’d recommend alternatives like InfluxDB (for time-series data) or PostgreSQL for better scalability and performance.<BR>
+Additionally, I’ve developed dashboards for monitoring and controlling CNC machines, PLCs, and Fanuc robots—similar to what your project might require. I’ve attached some examples of my previous work for your reference.<BR>
+<img src='https://github.com/user-attachments/assets/1c90f7cb-0474-40fe-b639-22d4eab15c61'>
+<img src='https://github.com/user-attachments/assets/35e1b520-a09a-4566-bcca-fa66608c9450'>
+<img src='https://github.com/user-attachments/assets/3f5313a9-e32a-458b-b37a-f4e4ab51d4cf'>
+
+<h3>•	IoT Communication Project<BR></h3>
+I have a strong proficiency in Clean Architecture and Microservices on .NET, and I have primarily developed .NET applications for the IoT and manufacturing sectors. These experiences have equipped me with valuable skills in real-time data acquisition, large data processing, and stable communication.<BR>
+I would like to highlight my expertise in time series data processing, large data handling, and communication between IoT devices and servers.<BR>
+<img src='https://github.com/user-attachments/assets/0db716db-c606-44bf-a276-3e3589f5dcda'>
+<img src='https://github.com/user-attachments/assets/f4fae84f-4dda-41e9-a643-bddebf1c8a37'>
