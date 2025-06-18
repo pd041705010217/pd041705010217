@@ -1,4 +1,4 @@
-# Tomasz Obloza
+# PLC programmer
 😀My Philosophy of Prioritizing Quality Over Quantity😀
 <BR>
 Focusing on quality to ensure unparalleled excellence in every aspect of your project.<BR>
